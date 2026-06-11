@@ -34,6 +34,8 @@ Essas áreas são essenciais para o ecoturismo e preservação ambiental, mas ta
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" widht="50" height="50">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" widht="50" height="50">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" widht="50" height="50">
+  <img src=file:///C:/Users/carol/Downloads/Node.js.svg" widht="50" height="50">
+  
 </div>
 
 ---
